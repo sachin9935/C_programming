@@ -1,1 +1,1 @@
-arr[0],arr[1],arr[2],arr[3],arr[4]
+    reverse(arr,2,5);

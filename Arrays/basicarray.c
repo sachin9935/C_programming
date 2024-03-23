@@ -9,7 +9,7 @@ int main()
     }
     for (int i = 0; i <= 4; i++)
     {
-        printf("%d ", arr3[i]);
+        printf("%d,", arr3[i]);
     }
     return 0;
 }
