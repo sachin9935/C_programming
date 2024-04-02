@@ -11,6 +11,7 @@ int main(){
     int n;
     printf("Enter number");
     scanf("%d",&n);
+    printf("the answer\n");
     decresing(n);
     return 0;
 }
