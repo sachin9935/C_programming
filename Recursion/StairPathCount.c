@@ -9,6 +9,6 @@ int main(){
     int n;
     printf("enter number:");
     scanf("%d",&n);
-    printf("%d",stair(n));
+    printf("%d ",stair(n));
     return 0;
 }
