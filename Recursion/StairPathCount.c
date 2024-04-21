@@ -10,5 +10,5 @@ int main(){
     printf("enter number:");
     scanf("%d",&n);
     printf("%d ",stair(n));
-    return 0;
+    return 0 ;
 }
