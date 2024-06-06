@@ -1,0 +1,3 @@
+Name=sachin
+Roll no=43
+marks=99
